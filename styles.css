@@ -61,6 +61,7 @@ body {
     height: 280px;      /* altura fija para todas */
     object-fit: cover;  
     object-position: center;
+}
 
     
 .card-body {
